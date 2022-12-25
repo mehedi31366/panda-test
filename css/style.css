@@ -1,0 +1,83 @@
+.container{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#banner{
+    border-radius: 5px;
+    padding: 50px 0;
+    background-color: blueviolet;
+}
+#banner img{
+    width: 300px;
+}
+#banner h1{
+    margin: 10px 0;
+}
+#banner p{
+    margin: 0;
+}
+.d-flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.btn{
+    color: white;
+    font-style: normal;
+    font-size: large;
+    background-color: rgb(216, 33, 216);
+    border-radius: 5px;
+    padding: 10px 20px;
+    border-color:  rgb(216, 33, 216);
+}
+.background-color{
+    background-color: #e5c7e9eb;
+}
+#margin-left{
+    margin-left: 50px;
+}
+.h1{
+    font-size: 40px;
+}
+#categories img{
+    width: 100px;
+}
+.catagori-3{
+    width: 300px;
+    height: 300px;
+}
+.card-2{
+    width: 270px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: 1px saddlebrown;
+    border-radius: 10px;
+}
+.bg-yellow{
+    background-color: #ffc107;
+}
+.bg-green{
+    background-color: #198754;
+}
+.bg-blue{
+    background-color: #0d6efd;
+}
+.card-3{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    align-items: flex-end;
+}
+.pt-5{
+    padding-top: 40px;
+}
+.card img{
+    width: 300px;
+    height: 300px;
+}
